@@ -1,0 +1,12 @@
+{
+    "name": "Lithium",
+    "game_version": "1.24",
+    "patch": "1.0.335.2/1.0.335.3",
+    "author": "Lynxaa",
+    "patches_url": "http://patches.rockstargames.com/prod/gtav/versioning.xml",
+    "files": [
+        "lithium.lua",
+        "_lithium\\functions.lua",
+        "_lithium\\variables.lua"
+    ]
+}

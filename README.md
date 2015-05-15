@@ -1,2 +1,6 @@
-# LithiumGTA5
-LithiumGTA5 is a open sourced LUA based GTA5 Mod Menu that uses ScriptHookV
+# Lithium
+Lithium is a GTA Mod Menu that uses scripthook and LUA.asi for natives support. <br>
+<b>DO NOT ATTEMPT TO USE THESE FILES WITH ANY PATCH LATER THAN 1.0.335.X!</b><br>
+To see compatiable versions view R*'s versioning.xml: <br>
+http://patches.rockstargames.com/prod/gtav/versioning.xml<br>
+View all mod information and data here: https://github.com/Lynxaa/Lithium/blob/master/addins/manifest.json
